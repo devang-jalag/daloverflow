@@ -2,8 +2,6 @@
 
 A Stack Overflow-like Q&A platform designed for Dalhousie University students and faculty. Built as part of CSCI 5308 Advanced Concepts in Software Development.
 
-Live Application: https://frontend-five-roan-92.vercel.app/
-
 ## Project Overview
 
 Dal Overflow enables the Dalhousie University community to ask questions, share knowledge, and collaborate on academic and technical topics through a comprehensive Q&A platform with user authentication, voting systems, and knowledge organization via tags.
@@ -192,3 +190,4 @@ For detailed usage scenarios and feature workflows, see:
 - Code smells: [/docs/smells](/docs/smells)
 - User flow diagrams: [/docs/Userflow-diagrams.pdf](/docs/Userflow-diagrams.pdf)
 - Commit hashes for TDD approach: [docs/commit_hash-TDD.pdf](docs/commit_hash-TDD.pdf)
+- Live Application: https://frontend-five-roan-92.vercel.app/ (deprecated, still feel free to check the ui of homescreen)
